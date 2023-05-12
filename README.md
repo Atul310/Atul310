@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atul310
 - 👀 I’m interested in sleeping 
 - 🌱 I’m currently learning javascript,python,automation,linux  and other technologies.
-- 💞️ I’m looking to collaborate on different project 
+- 💞️ I’m looking to collaborate on different project, opensource,and DSA. 
 - 📫 
 
 <!---
