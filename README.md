@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atul310
+- 👋 Hi, I’m Atul Dhital a tech enthusiast exploring everyday to learn new things. 
 - 👀 I’m interested in sleeping ,listening to music , reading books and many more .
 - 🌱 I’m currently learning javascript,python,automation,linux,devops,dsa  and other technologies.
 - 💞️ I’m looking to collaborate on different project, opensource,and DSA. 
